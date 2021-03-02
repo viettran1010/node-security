@@ -5,3 +5,4 @@
 - Set secure headers with helmet library
 - Encrypt sensitive data with crypto
 - Prevent Cross Site Request Forgery with csurf
+- Control cookies with cookie-session
